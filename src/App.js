@@ -15,7 +15,7 @@ const App = () => {
             <Route path="/item/:id" component={Detail} />
           </Switch>
         </div>
-      </Router>
+      </Router>  
     </Provider>
   );
 };
